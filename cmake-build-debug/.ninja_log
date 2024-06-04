@@ -1,0 +1,12 @@
+# ninja log v5
+21	788	1713210119851234820	CMakeFiles/Project3.dir/Board.cpp.o	6b877c776e02e49f
+21	663	1713210119727675408	CMakeFiles/Project3.dir/Tile.cpp.o	d9b7fbe69b3913fe
+1	81	1717445496933584550	build.ninja	1a0f2ab480678bc9
+789	824	1713210119890428368	Project3	8fab0f17792449c8
+20	789	1713210119850749082	CMakeFiles/Project3.dir/main.cpp.o	34ecf1160783ccf8
+21	606	1713210119669936020	CMakeFiles/Project3.dir/TextureManager.cpp.o	259044992b6e0e3f
+2	532	1717445502809275361	CMakeFiles/Project3.dir/TextureManager.cpp.o	9e017c1553bfda36
+2	561	1717445502838405095	CMakeFiles/Project3.dir/Tile.cpp.o	df875bdeb8bb0b4a
+1	689	1717445502966833681	CMakeFiles/Project3.dir/main.cpp.o	183cb31de10a0c0
+1	692	1717445502968816651	CMakeFiles/Project3.dir/Board.cpp.o	c8dfefe25fe62cd
+692	731	1717445503012410776	Project3	d77ab3b9c23e3ee2
